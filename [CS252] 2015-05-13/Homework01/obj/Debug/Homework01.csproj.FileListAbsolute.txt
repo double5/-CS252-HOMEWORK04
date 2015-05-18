@@ -1,0 +1,21 @@
+D:\C#\[CS252]2015-05-13\Homework01\bin\Debug\Homework01.exe.config
+D:\C#\[CS252]2015-05-13\Homework01\bin\Debug\Homework01.exe
+D:\C#\[CS252]2015-05-13\Homework01\bin\Debug\Homework01.pdb
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.Form1.resources
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.Properties.Resources.resources
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.csproj.GenerateResource.Cache
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.exe
+D:\C#\[CS252]2015-05-13\Homework01\obj\Debug\Homework01.pdb
+Z:\C#\[CS252] 2015-05-13\Homework01\bin\Debug\Homework01.exe.config
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.exe
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.pdb
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.Form1.resources
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.Properties.Resources.resources
+Z:\C#\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.csproj.GenerateResource.Cache
+Z:\C#\[CS252] 2015-05-13\Homework01\bin\Debug\Homework01.exe
+Z:\C#\[CS252] 2015-05-13\Homework01\bin\Debug\Homework01.pdb
+Z:\C#\-CS252-HOMEWORK04\[CS252] 2015-05-13\Homework01\bin\Debug\Homework01.exe.config
+Z:\C#\-CS252-HOMEWORK04\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.exe
+Z:\C#\-CS252-HOMEWORK04\[CS252] 2015-05-13\Homework01\obj\Debug\Homework01.pdb
